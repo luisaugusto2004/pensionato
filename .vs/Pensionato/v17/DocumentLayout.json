@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Luis Augusto\\source\\Projetos\\Pensionato\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E24C63C5-2F49-4723-88CC-546D8D2589B7}|Pensionato.csproj|c:\\users\\luis augusto\\source\\projetos\\pensionato\\estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24C63C5-2F49-4723-88CC-546D8D2589B7}|Pensionato.csproj|solutionrelative:estudante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E24C63C5-2F49-4723-88CC-546D8D2589B7}|Pensionato.csproj|c:\\users\\luis augusto\\source\\projetos\\pensionato\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E24C63C5-2F49-4723-88CC-546D8D2589B7}|Pensionato.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Estudante.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Augusto\\source\\Projetos\\Pensionato\\Estudante.cs",
+              "RelativeDocumentMoniker": "Estudante.cs",
+              "ToolTip": "C:\\Users\\Luis Augusto\\source\\Projetos\\Pensionato\\Estudante.cs",
+              "RelativeToolTip": "Estudante.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T01:44:09.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Luis Augusto\\source\\Projetos\\Pensionato\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Luis Augusto\\source\\Projetos\\Pensionato\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAywBgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T01:25:18.902Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
